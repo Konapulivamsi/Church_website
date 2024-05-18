@@ -1,0 +1,62 @@
+.uu{
+	list-style: none;
+	color: blue;
+	font: 15px "cooper black";
+	}
+		
+	li::before{
+		content: "@";
+		color: yellow;
+			
+	}
+	h2{
+		color: green;
+	}
+	h3{
+	color: brown;
+	}
+		
+	.aa{
+		background-color:lightgreen ;
+		padding: 15px;
+	}
+	.z{
+		border-style: dotted;
+		background-color: skyblue;
+		font-size:30px ;
+	}
+	.x{
+		border-style: double;
+		background : linear-gradient(to right, #831bcd, #f9620b);
+		font-size:30px ;
+	}
+	.y{
+		border-style: ridge;
+		background-color: skyblue;
+		font-size:30px ;
+	}
+	.qq{
+		background : linear-gradient(to right, hotpink, orange, yellow,red);
+		padding: 15px;
+	}
+
+	.dd{
+		background-color: skyblue;
+	}
+	.ll{
+		color: brown;
+	}
+	.dropdown{
+		color: pink;
+	}
+	.d1{
+		padding: 20px;
+		float: left;
+		width: 30%;
+	}
+	.d3{
+		padding: 20px;
+		float: left;
+		width: 30%;
+		background : linear-gradient(to right, hotpink, orange, yellow,red);
+	}
